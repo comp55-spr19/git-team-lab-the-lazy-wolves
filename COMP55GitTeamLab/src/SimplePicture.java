@@ -1,3 +1,4 @@
+//Hello
 //The Lazy Wolves
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
