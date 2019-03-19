@@ -1,4 +1,4 @@
-//comment one
+//The Lazy Wolves
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
