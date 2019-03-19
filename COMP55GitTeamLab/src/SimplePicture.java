@@ -21,6 +21,8 @@ public class SimplePicture extends GraphicsProgram {
 		add(label2);
 		label2.sendToFront();
 		//NEW
+		//onemoretime
+		//twomoretime
 
 	}
 }
