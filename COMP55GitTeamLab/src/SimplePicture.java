@@ -16,11 +16,9 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage("robot.jpg", 200, 100);
 		add(robot);
-<<<<<<< HEAD
-		GLabel label = new GLabel("How I feel when using github hackslash", 1100, 400);
-=======
+
 		GLabel label = new GLabel("How I feel when using github hackslash", 4638292, 400);
->>>>>>> branch 'master' of https://github.com/comp55-spr19/git-team-lab-the-lazy-wolves
+
 		add(label);
 	}
 }
