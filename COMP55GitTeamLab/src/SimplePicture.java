@@ -17,8 +17,12 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 		GLabel label = new GLabel("How I feel when using github hackslash", 400, 400);
 		add(label);
+<<<<<<< HEAD
 		GLabel label2 = new GLabel("One push", 200, 1000);
 		add(label2);
 		label2.sendToFront();
+=======
+		//NEW
+>>>>>>> branch 'master' of https://github.com/comp55-spr19/git-team-lab-the-lazy-wolves
 	}
 }
