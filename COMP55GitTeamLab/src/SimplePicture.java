@@ -1,4 +1,5 @@
-//The Lazy Wolves
+// Tuesday
+// The Lazy Wolves
 // 3.20.2019
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
