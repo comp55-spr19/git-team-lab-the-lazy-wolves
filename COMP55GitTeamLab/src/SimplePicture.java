@@ -17,7 +17,7 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 <<<<<<< HEAD
 
-		GLabel label = new GLabel("How I feel when using github hackslash", 10000, 400);
+		GLabel label = new GLabel("How I feel when using github hackslash", 7777, 400);
 
 =======
 		GLabel label = new GLabel("How I feel when using github hackslash", 400, 400);
