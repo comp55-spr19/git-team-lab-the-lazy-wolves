@@ -29,6 +29,6 @@ public class SimplePicture extends GraphicsProgram {
 		//NEW
 		//onemoretime
 		//twomoretime
-//Brian
+//Brian Park
 	}
 }
